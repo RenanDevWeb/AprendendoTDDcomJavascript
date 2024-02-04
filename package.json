@@ -1,0 +1,26 @@
+{
+  "name": "aprendendotddcomjavascript",
+  "version": "1.0.0",
+  "description": "repositorio para o curso do willian justen para aprender tdd com javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenanDevWeb/AprendendoTDDcomJavascript.git"
+  },
+  "keywords": [
+    "tdd",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenanDevWeb/AprendendoTDDcomJavascript/issues"
+  },
+  "homepage": "https://github.com/RenanDevWeb/AprendendoTDDcomJavascript#readme",
+  "dependencies": {
+    "gitignore": "^0.7.0"
+  }
+}
